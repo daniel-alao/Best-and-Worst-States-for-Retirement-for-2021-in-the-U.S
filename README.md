@@ -6,7 +6,7 @@
 
 a.)To determine the state(s) in the United States best fit for retirement.
 
-b.)To as well note the least suitbale(worst states unfit for retirement.
+b.)To as well note the least suitable(worst) states unfit for retirement.
 
 # Data Sourcing : The data used to execute this project was gotten from bankrate.com, as an attached file to the task given.
 It contained a table of factors influential to how referable a state in the U.S could be to current or aspiring retirees.
