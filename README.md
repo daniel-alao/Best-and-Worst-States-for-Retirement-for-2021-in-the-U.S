@@ -1,6 +1,5 @@
-# Best-and-Worst-States-for-Retirement-in-2021.
 
-# Project Title : Best and Worst states for Retirement in 2021
+# Project Title : Best and Worst states for Retirement for 2021, in the U.S
 
 # Project Objective : 
 
@@ -8,7 +7,8 @@ a.)To determine the state(s) in the United States best fit for retirement.
 
 b.)To as well note the least suitable(worst) states unfit for retirement.
 
-# Data Sourcing : The data used to execute this project was gotten from bankrate.com, as an attached file to the task given.
+# Data Sourcing : 
+The data used to execute this project was gotten from bankrate.com, as an attached file to the task given.
 It contained a table of factors influential to how referable a state in the U.S could be to current or aspiring retirees.
 
 In detail, the source already has a table conssiting of :
@@ -25,9 +25,12 @@ v)  Overall score per state
 
 vi) Overall rak per state.
 
-# Data Transformation : The data was already cleaned, hence no significant transformation was done.
+# Data Transformation : 
 
-# Findings : From the analysis done , the following were discovered:
+The data was already cleaned, hence no significant transformation was done.
+
+# Findings : 
+From the analysis done , the following were discovered:
 
 a. Of the top 5 highly affordable states, **Tennessee** ranked first as the most affordable state to live in.
 
